@@ -6,6 +6,6 @@ typedef struct node {
     struct node *next;
 } node;
 
-int ll_has_cycle(node *);
+int ll_has_cycle(node *);  //function decleration for interface
 
 #endif // LL_CYCLE_H

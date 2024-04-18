@@ -3,3 +3,19 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+start
+s
+s
+s
+s
+s
+s
+print password
+s
+s
+s
+s
+s
+s
+s
+s

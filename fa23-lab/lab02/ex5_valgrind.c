@@ -3,7 +3,7 @@
 #include <string.h>
 
 char *copy_str(char *s) {
-    char *new_str = malloc(strlen(s) * sizeof(char));
+    char *new_str = malloc((strlen(s)+1) * sizeof(char));
     strcpy(new_str, s);
     return new_str;
 }
